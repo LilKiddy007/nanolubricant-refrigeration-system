@@ -14,7 +14,7 @@ Improving energy efficiency for a refrigeration system would have significant ef
 
 ## Technical Summary
 
-The technical summary of the project report is available in: [View technical Summary](docs/technical-summary.pdf)
+The technical summary of the project report is available in: [View technical Summary](docs/Technical-Summary.pdf)
 
 ## Project Information
 **Author:** Edidiong Enobong Umoh
